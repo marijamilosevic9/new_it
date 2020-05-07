@@ -1,4 +1,4 @@
-# newi_it
+# new_it
 First html and css project
 
 
